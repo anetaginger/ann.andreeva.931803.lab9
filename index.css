@@ -33,3 +33,19 @@
     text-align: center;
     text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
 }
+
+#TextEdit {
+    width: 100%;
+    background: #FFFFFF;
+    height: 23px;
+    text-align: right;
+}
+
+    #WideBtn {
+    width: 88px;
+}
+
+    #HeightBtn {
+        height: 88px;
+    }
+    
